@@ -1,0 +1,5 @@
+fet 22 ws 45
+bgh 48 lp 98
+vgt 51 sdf 43
+csh 90 sqo 39
+bgt 50 qmx 76
